@@ -1,6 +1,7 @@
 ### Summary: Include screen shots or a video of your app highlighting its features
 This is RecipeVous, an app that allows you to view a list of dishes. A user can swipe down to refresh the latest recipe info, and then tap on each recipe to reveal more info about it, including watching a youtube tutorial for how to make the meal!
 
+![Showcase video](FetchiOSChallenge.mov)
 
 Recipe iOS project that retrieves recipes via HTTP requests
 
